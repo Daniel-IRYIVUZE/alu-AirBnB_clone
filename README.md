@@ -36,15 +36,12 @@ git clone https://github.com/Daniel-IRYIVUZE/alu-AirBnB_clone.git
 (hbnb) help
 
 4. Exiting the Interpreter
-#### To exit the console, simply type:
 
-Documented commands (type help <topic>):
-========================================
-EOF  all  create  delete  destroy  exit  help  q  quit  show  update
+#### To exit the console, simply type:
 
 (hbnb) quit
 
-### How to Use the Interpreter
+#### How to Use the Interpreter
 > To use the interpreter, follow these steps:
 
 - Launch the console by running ./console.py.
@@ -62,6 +59,6 @@ $ python3 -m unittest discover tests
 
 $ python3 -m unittest tests/test_models/test_city.py
 
-# Authors
+## Authors
 - [`Daniel Iryivuze`](https://www.linkedin.com/in/daniel-iryivuze-992141278/)
 - [`Cysron Bugingo`](https://www.linkedin.com/in/)
