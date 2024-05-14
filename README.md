@@ -1,7 +1,5 @@
 # AirBnB clone - The console
-
-![65f4a1dd9c51265f49d0](https://github.com/Daniel-IRYIVUZE/alu-AirBnB_clone/assets/110787129/9f3f3ede-75d4-44fc-a1b3-7a71152e9633)
-
+![65f4a1dd9c51265f49d0](https://github.com/Daniel-IRYIVUZE/alu-AirBnB_clone/assets/139581457/45fb25dc-c996-4438-8554-c35318ef06b1)
 
 # Description of the project
 
