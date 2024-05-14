@@ -1,4 +1,4 @@
-# AirBnB clone - Web static
+# AirBnB clone - Web design
 
 ![hbnb_step1](https://github.com/Daniel-IRYIVUZE/alu-AirBnB_clone/assets/110787129/dae03801-2fc5-4ca6-a9bf-c1995cf6993e)
 
