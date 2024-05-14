@@ -21,7 +21,7 @@ The command interpreter helps manage the objects of the project by:
 ## How to start the interpreter
 
 1. Prerequisites
-> Python 2.7
+> Python 3.0
 
 2. Installation
 #### Clone the repository:
@@ -32,11 +32,11 @@ git clone https://github.com/Daniel-IRYIVUZE/alu-AirBnB_clone.git
 #### Navigate to the project directory and run the command:
 ./console.py
 
-### Once in the console, use the 'help' command to view the list of available commands:
+#### Once in the console, use the 'help' command to view the list of available commands:
 (hbnb) help
 
 4. Exiting the Interpreter
-### To exit the console, simply type:
+#### To exit the console, simply type:
 
 Documented commands (type help <topic>):
 ========================================
@@ -44,7 +44,7 @@ EOF  all  create  delete  destroy  exit  help  q  quit  show  update
 
 (hbnb) quit
 
-# How to Use the Interpreter
+### How to Use the Interpreter
 > To use the interpreter, follow these steps:
 
 - Launch the console by running ./console.py.
@@ -52,7 +52,7 @@ EOF  all  create  delete  destroy  exit  help  q  quit  show  update
 - Use the documented commands to perform various operations on objects.
 - When you're done, type quit or exit to exit the console.
 
-#Running Tests
+#### Running Tests
 
 > To run all the tests, execute the following command:
 
