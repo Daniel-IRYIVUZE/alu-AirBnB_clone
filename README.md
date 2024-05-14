@@ -1,5 +1,9 @@
 # AirBnB clone - The console Project
 
+![65f4a1dd9c51265f49d0](https://github.com/Daniel-IRYIVUZE/alu-AirBnB_clone/assets/110787129/9f3f3ede-75d4-44fc-a1b3-7a71152e9633)
+
+
+## Description of the project
 This project is a simple clone of the AirBnB website. It implements a backend interface or console to manage program data like a shell. Console commands allow users to create, update, destroy objects, and manage file storage.
 
 ## Project Structure
