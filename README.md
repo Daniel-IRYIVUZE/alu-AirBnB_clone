@@ -54,8 +54,5 @@ $ python3 -m unittest tests/test_models/test_city.py
 
 ```
 
-# Authors
 
-## [`Daniel Iryivuze`](https://www.linkedin.com/in/daniel-iryivuze-992141278/)
-## [`Cysron Bugingo`](https://www.linkedin.com/in/)
 
