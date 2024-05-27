@@ -54,6 +54,10 @@ $ python3 -m unittest tests/test_models/test_city.py
 
 ```
 
+After all we have designed a static website by using HTML for the structure and CSS for great Design
+# Here is Interface
+![AirBnB interface](https://github.com/Daniel-IRYIVUZE/alu-AirBnB_clone/assets/139581457/00082701-4f59-4f67-8c5c-e02181e69dab)
+
 # Authors
 
 ## [`Daniel Iryivuze`](https://www.linkedin.com/in/daniel-iryivuze-992141278/)
